@@ -3,7 +3,7 @@
 
 ![simulation](./images/sample_demonstration.png)
 
-#### Simulator Link : (-)
+#### Simulator Link : (https://aniketh-bellala.github.io/DDS-Mini-Project-v2/simulation/)
 
 ## Aim
 To realise Half Adder Circuit using AND and XOR gates and to detect all the possible positions of SA0 and SA1 faults in Half Adder Circuit
