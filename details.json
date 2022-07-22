@@ -1,0 +1,52 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Detection of both SA0 and SA1 faults on a Half Adder circuit",
+			"Lab": "Design of Digital Systems Lab",
+			"Discipline": "Computer Science and Engineering",
+			"Technology": "HTML, Javascript, CSS"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Biswajit R. Bhowmik",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       }
+   ],
+
+   "contributer": [
+       {
+			"Contributer": "Chirag R",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+			"Contributer": "Md Rakib Hasan",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+			"Contributer": "Attada Ramprasad",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+			"Contributer": "Hari Chetan Kurapati",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+   		 {
+			"Contributer": "Aniketh Narayan Bellala",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       }
+   ]
+
+}
